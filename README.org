@@ -1,0 +1,10 @@
+* restricted-functions
+
+Reasoning about functions with restricted argument types.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/marcoheisig/restricted-functions.git   |
+| commit  | 6527f50  |
+| systems | restricted-functions |
+|---------+-------------------------------------------|
+
